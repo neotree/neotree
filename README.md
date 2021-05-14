@@ -21,7 +21,7 @@ The technology consists of different services. Source code for each service is s
 3. [The NeoTree backend](https://github.com/neotree/node-api). The backend stores consists of a database and an API for managing the flow of data from the front end to the database. The database stores two types of data:
   * The script configuration information. This data is customized in the webeditor, and determines what information, question and data is collected through the different workflows. (Admission, discharge etc.)
   * The actual data posted from the app when e.g. a baby is admitted or discharged.
-4. [The NeoTree Data Pipeline](https://github.com/neotree/neotree-data-pipeline). This takes the data in the database collected from the app and reshapes it into a format that makes it easier to visualize and dashboard, to serve back to staff in hospital and integrate with aggregate data systems. 
+4. [The NeoTree Data Pipeline](https://github.com/neotree/neotree-data-pipeline-kedro). This takes the data in the database collected from the app and reshapes it into a format that makes it easier to visualize and dashboard, to serve back to staff in hospital and integrate with aggregate data systems. 
 
 
 ## Setting up the NeoTree Platform
