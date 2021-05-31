@@ -27,9 +27,15 @@ The technology consists of different services. Source code for each service is s
 
 An end-to-end demo of the Neotree is available. For login credentials please email neotreedemo@gmail.com. (Login credentials are needed for the demo app, webeditor and Metabase.)
 
-Download the demo Android app [here](https://drive.google.com/file/d/1N_eDXTiBT8622W-yme6U-p17pD69pSbl/view?usp=sharing). It includes four demonstration "scripts". You can enter in dummy records (e.g. admissions, discharges) and export the data via the jsonapi.
+Download the demo Android app [here](https://drive.google.com/file/d/1N_eDXTiBT8622W-yme6U-p17pD69pSbl/view?usp=sharing). 
 
-A demonstration dashboard is available on https://demo-metabase.neotree.org. Here you can view in instance of [Metabase](https://github.com/metabase/metabase) used to visualize / socialize a dummy data set generated in the demo app. This illustrates the types of view on the data used in neonatal wards runnning the Neotree. 
+* You can view video instructions to download and setup the video [here](https://youtu.be/H280y_h_ueo), and instructions to use the app [here](https://youtu.be/68wHtgXewM0)
+* It includes four demonstration "scripts". You can enter in dummy records (e.g. admissions, discharges) and export the data via the jsonapi.
+
+A demonstration dashboard is available on https://demo-metabase.neotree.org. 
+
+* Here you can view in instance of [Metabase](https://github.com/metabase/metabase) used to visualize / socialize a dummy data set generated in the demo app. 
+* This illustrates the types of view on the data used in neonatal wards runnning the Neotree. 
 
 You can view a demonstration of the webeditor on https://demo-webeditor.neotree.org. Here you can view the functionality for customising the different scripts in the app or adding additional scripts.
 
