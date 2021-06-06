@@ -31,18 +31,19 @@ Demo app
 
 * Download the demo Android app [here](https://drive.google.com/file/d/1BpT9guMixtu1NCj8s5zCKhT8h2srCRk0/view?usp=sharing). 
 * You can view video instructions to download and setup the video [here](https://youtu.be/H280y_h_ueo), and instructions to use the app [here](https://youtu.be/68wHtgXewM0)
-* It includes four demonstration "scripts". You can enter in dummy records (e.g. admissions, discharges) and export the data via the jsonapi.
+* It includes four demonstration "scripts". You can enter in dummy records (e.g. admissions, discharges) and export the data via the jsonapi
 
 Demo data visualisation
 
-* A demonstration instance of [Metabase](https://github.com/metabase/metabase) setup on top of demo data is available on https://demo-metabase.neotree.org to query, visualize and socialize the Neotree data.
-* A demo dashboard is available on https://demo-metabase.neotree.org/dashboard/1.
-* This illustrates the types of view on the data used in neonatal wards runnning the Neotree.
+* A demonstration instance of [Metabase](https://github.com/metabase/metabase) setup on top of demo data is available on https://demo-metabase.neotree.org to query, visualize and socialize the Neotree data
+* A demo dashboard is available on https://demo-metabase.neotree.org/dashboard/1
+* This illustrates the types of view on the data used in neonatal wards runnning the Neotree
+* A video showing how data entered in the demo app is then available in Metabase for exploration can be viewed [here](https://youtu.be/MwbjNsB3KDA)
 
 Demo webeditor
 
-* The webeditor enales clinicians and hospital management to tailor the app experience without any need to edit the underlying code.
-* You can view a demonstration of the webeditor on https://demo-webeditor.neotree.org. Here you can view the functionality for customising the different scripts in the app or adding additional scripts.
+* The webeditor enales clinicians and hospital management to tailor the app experience without any need to edit the underlying code
+* You can view a demonstration of the webeditor on https://demo-webeditor.neotree.org. Here you can view the functionality for customising the different scripts in the app or adding additional scripts
 * A instructional video is available [here](https://youtu.be/FLOFAuZXAjw).
 
 ## Setting up the Neotree for yourself
