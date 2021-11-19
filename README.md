@@ -1,5 +1,7 @@
 # NeoTree
 
+[![DOI](https://zenodo.org/badge/257850569.svg)](https://zenodo.org/badge/latestdoi/257850569)
+
 The NeoTree is an open source platform for improving neonatal care in low-resource settings. 
 
 ## Overview of the NeoTree
