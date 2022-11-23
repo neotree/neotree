@@ -25,7 +25,7 @@ The technology consists of different services. Source code for each service is s
   * The actual data posted from the app when e.g. a baby is admitted or discharged.
 4. [The Neotree Data Pipeline](https://github.com/neotree/neotree-data-pipeline-kedro). This takes the data in the database collected from the app and reshapes it into a format that makes it easier to visualize and dashboard, to serve back to staff in hospital and integrate with aggregate data systems. 
 
-[Neotree data dictionary](https://github.com/neotree/neotree): A comprehensive and evolving list of clinical and sociodemographic data collected via the Neotree app on current implementation sites.
+[Neotree data dictionary](https://docs.google.com/spreadsheets/d/1A0tPnsYasLHmFonjtO2OtP8e6OEwW7hFS1egvh7uV80/edit): A comprehensive and evolving list of clinical and sociodemographic data collected via the Neotree app on current implementation sites.
 
 ## Demo
 
