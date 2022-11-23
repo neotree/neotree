@@ -1,0 +1,101 @@
+"","UID","NeoTreeOutcome.Label","Temperature.Value","Gestation.Value","Bw.Value","Diagdis1.Label","DateTimeAdmission.Value","DateTimeDischarge.Value"
+"1","082f1987-46c1-4288-83b8-12a523a91ff4","Discharged",30.4,44,3709,"Birth Asphyxia",2021-04-20,2021-05-29
+"2","4f087263-6440-4bf8-8f6e-d1976204c047","Discharged",34.6,21,1314,"Birth Asphyxia",2021-04-25,2021-05-29
+"3","a93a3385-133c-4a57-a101-f701ce09d0a2","Discharged",38.9,21,1086,"Birth Asphyxia",2021-04-24,2021-05-25
+"4","8de2c80b-10d3-4886-bc69-354f665108f7","Discharged",33.5,38,1122,"Birth Asphyxia",2021-04-24,2021-05-16
+"5","a0169197-e3e0-4260-b530-26b33c0932ac","Discharged",32.8,33,3896,"Birth Asphyxia",2021-04-27,2021-05-06
+"6","82a6abd5-a864-4d53-b75c-f1a84da4b440","Discharged",40.1,33,1288,"Birth Asphyxia",2021-04-05,2021-05-13
+"7","1f719636-e9cb-4ebf-8d36-fc7f36ab3f08","Discharged",40,37,3767,"Birth Asphyxia",2021-04-28,2021-05-07
+"8","914b6164-08f4-44c8-8dac-fac434d8d215","Discharged",39.6,36,3539,"Birth Asphyxia",2021-04-23,2021-05-08
+"9","b14f2142-ae6b-4320-af0f-938d4906d951","Discharged",38.8,28,1419,"Prematurity",2021-04-28,2021-05-03
+"10","818184ec-c71c-4e6c-80ba-e2d7b22b5133","Discharged",32,24,708,"Prematurity",2021-04-27,2021-05-09
+"11","f88da3cb-eaac-4a75-b410-2eac7cb724b7","Discharged",32.5,43,532,"Prematurity",2021-04-03,2021-05-02
+"12","1c24aecc-6027-4fff-8ef2-c1bf8b9691c3","Discharged",41.8,41,1229,"Prematurity",2021-04-25,2021-05-04
+"13","850a643a-d809-4a60-8511-a0f62aa0c373","Discharged",33.4,44,602,"Prematurity",2021-04-20,2021-05-27
+"14","68c23a31-e91b-4b3e-8df0-b694f1c49bad","Discharged",35,23,3095,"Prematurity",2021-04-26,2021-05-31
+"15","4dd1df92-750a-4509-8b64-917a1c77d13d","Discharged",31,37,915,"Prematurity",2021-04-09,2021-05-04
+"16","a835a46a-63c1-4603-b798-fa732efe3994","Discharged",33.1,27,555,"Prematurity",2021-04-17,2021-05-16
+"17","e9d1607b-ce25-4df7-8c69-e4b912ed96e1","Discharged",40.2,35,826,"Prematurity",2021-04-17,2021-05-03
+"18","11491de8-a957-4530-b58a-bf2e78b31e0a","Discharged",37.7,28,3805,"Prematurity",2021-04-23,2021-05-04
+"19","ab66c54f-6d52-430f-a1fc-0d04833c7d1b","Discharged",35.7,26,832,"Prematurity",2021-04-01,2021-05-30
+"20","89a848b8-4dbc-4282-8971-6203f9c694c7","Discharged",37.8,36,2702,"Prematurity",2021-04-15,2021-05-24
+"21","ddb01a2f-fe20-4383-99a2-e24cbecc50e6","Discharged",33,35,3915,"Prematurity",2021-04-10,2021-05-06
+"22","69a35f1d-ff44-4987-82fd-5f996b704756","Discharged",38.2,22,2426,"Congenital Abnormality",2021-04-20,2021-05-08
+"23","a2654286-c70e-4dbb-beb7-509e45a47621","Discharged",41.4,24,528,"Congenital Abnormality",2021-04-04,2021-05-23
+"24","635c6251-77f7-4ba2-bd7d-7c6c72308c2f","Discharged",41.5,24,3573,"Congenital Abnormality",2021-04-22,2021-05-04
+"25","ed251240-8de5-4c0a-9da7-a7f514cf4ffe","Discharged",31.4,44,1966,"Congenital Abnormality",2021-04-17,2021-05-15
+"26","b64e5672-190a-414e-8b4f-90df880c35b4","Discharged",39.5,35,1455,"Congenital Abnormality",2021-04-03,2021-05-23
+"27","fdab089c-95ee-4d7b-bc31-4120480f4af3","Discharged",38.6,30,2456,"Congenital Abnormality",2021-04-24,2021-05-11
+"28","096be64b-90c4-4289-a30e-7b9c11ee9101","Discharged",37.7,30,1327,"Congenital Abnormality",2021-04-02,2021-05-14
+"29","4cf50d6e-076e-466f-a129-777ecd1f1db0","Discharged",34.7,23,1803,"Congenital Abnormality",2021-04-12,2021-05-12
+"30","04c4f71b-cd12-44f3-a1cd-3cb22f843fea","Discharged",38,27,3701,"Congenital Abnormality",2021-04-04,2021-05-17
+"31","984a3499-36de-4d66-8cf6-634f2c7a3064","Discharged",30.8,26,3656,"Low Birth Weight",2021-04-13,2021-05-08
+"32","1c5a7706-3e18-442b-a3f7-1948bea81e08","Discharged",39.7,20,1695,"Low Birth Weight",2021-04-12,2021-05-06
+"33","48c55ac6-6bb5-4b8b-acce-40d391d1623c","Discharged",30.4,33,2944,"Low Birth Weight",2021-04-14,2021-05-08
+"34","c4dfd65c-b0f9-4262-bad9-c9ac01e1b32c","Discharged",36.6,28,2133,"Low Birth Weight",2021-04-02,2021-05-06
+"35","d9434ba6-0a7a-498f-aa4f-c1a5f0c393a3","Discharged",34.4,41,1571,"Low Birth Weight",2021-04-27,2021-05-18
+"36","1109b6ac-ed3e-4d3b-a43e-080a7480e8bc","Discharged",30.2,30,1701,"Low Birth Weight",2021-04-02,2021-05-27
+"37","b525946e-1d58-4668-bb95-d40e0dabab4d","Discharged",36.4,22,2576,"Low Birth Weight",2021-04-08,2021-05-24
+"38","97552f63-25ce-45a3-94fa-3a00c47cf797","Discharged",36.6,25,2262,"Low Birth Weight",2021-04-07,2021-05-28
+"39","c7226a1e-2f37-44c2-bf11-18f35d3433f0","Discharged",37.7,41,2360,"Low Birth Weight",2021-04-15,2021-05-17
+"40","0962fe85-95c5-44c0-9c2e-fb20a4210017","Discharged",37.3,40,3057,"Low Birth Weight",2021-04-05,2021-05-28
+"41","f7228e19-0787-49c2-9ad6-7bed4bf09958","Discharged",35.5,23,2303,"Low Birth Weight",2021-04-25,2021-05-01
+"42","bcd8f5da-b4e7-4c55-a0b7-9d4fcac92d8b","Discharged",31.4,42,1947,"Low Birth Weight",2021-04-18,2021-05-22
+"43","08975c58-71b5-4bb5-ae87-2f13745db982","Discharged",32,38,2880,"Low Birth Weight",2021-04-24,2021-05-09
+"44","8e7c6511-7c0e-4010-8ac6-60b8ce804eb1","Discharged",41.8,43,1331,"Low Birth Weight",2021-04-09,2021-05-14
+"45","a889207d-6632-401c-94a7-47506adc802e","Discharged",40.7,37,2997,"Low Birth Weight",2021-04-01,2021-05-08
+"46","5b9bd06f-78f0-41fb-b7f9-07ef78007806","Discharged",32.3,41,1061,"Low Birth Weight",2021-04-12,2021-05-02
+"47","9abad2e2-88b1-4cbb-81ff-d6c26c649e04","Discharged",30.1,40,2112,"Low Birth Weight",2021-04-22,2021-05-07
+"48","605ce2ae-718d-4bc1-a7dd-041fddace028","Discharged",33.7,32,1222,"Jaundice",2021-04-08,2021-05-13
+"49","ede1da3f-786b-4aa0-a75e-f71b86ea6c23","Discharged",35.9,27,1732,"Jaundice",2021-04-18,2021-05-20
+"50","dee69d70-ebd4-4ea1-b301-d78d987f738d","Discharged",31.3,28,1079,"Jaundice",2021-04-25,2021-05-27
+"51","084c2b2a-5f2a-42d9-9607-3f148c092e1e","Discharged",32.2,32,1543,"Jaundice",2021-04-24,2021-05-30
+"52","24e0ea39-270a-4ae7-95c8-7820fdc9669d","Discharged",38.7,25,1414,"Jaundice",2021-04-10,2021-05-11
+"53","99ddda45-c143-41c5-8fad-08ed21c2b7c1","Discharged",40.7,36,3993,"Jaundice",2021-04-09,2021-05-30
+"54","76fd1974-4e87-43c8-8343-e793042c0ef6","Discharged",38,36,718,"Jaundice",2021-04-05,2021-04-30
+"55","70313ae2-c733-4265-81ef-26b1947a6926","Discharged",35.9,24,2272,"Jaundice",2021-04-03,2021-05-27
+"56","d50058b2-5016-430c-9ff2-d2c0da8dae28","Discharged",35.5,25,1130,"Prematurity with RDS",2021-04-29,2021-05-10
+"57","e201b13b-3eaf-4e1c-8fd7-98de1bed61c7","Discharged",41.8,43,3278,"Prematurity with RDS",2021-04-13,2021-05-08
+"58","c86d439f-4bb0-4346-bd89-fdabd95d304b","Discharged",31.1,23,3675,"Prematurity with RDS",2021-04-07,2021-05-31
+"59","dd90818a-841a-49df-b33b-fdcacdeda539","Discharged",37.8,23,1486,"Prematurity with RDS",2021-04-25,2021-05-12
+"60","d7f58b2f-7657-47d4-95f7-1d41aa82a55b","Discharged",36.7,33,2598,"Prematurity with RDS",2021-04-06,2021-05-31
+"61","a73eb9fd-a138-41b3-81a5-1e552face6c1","Discharged",41.2,33,4000,"Prematurity with RDS",2021-04-15,2021-05-20
+"62","93dd2a4e-2fb8-4f62-aa8e-a4ba0ef715de","Discharged",34.6,20,626,"Prematurity with RDS",2021-04-17,2021-05-06
+"63","84566a7e-ba4a-463b-ba02-08dcb4b1e7cd","Discharged",31.8,38,2989,"Prematurity with RDS",2021-04-06,2021-05-30
+"64","717cdcbe-4f5a-4c7d-b431-f5cda0540eb9","Discharged",31.4,29,521,"Prematurity with RDS",2021-04-13,2021-05-25
+"65","193ceafa-e54f-4b1c-9227-fe5e07e75f32","Discharged",36.2,32,3083,"Prematurity with RDS",2021-04-27,2021-05-05
+"66","d7fec5dc-94be-4647-b838-8ce45a492421","Discharged",41.7,20,3270,"Prematurity with RDS",2021-04-08,2021-05-22
+"67","ad8025ad-c4ac-456b-b0ce-6f7467f61c27","Discharged",38.4,36,3392,"Prematurity with RDS",2021-04-16,2021-05-01
+"68","9f7dd076-28e1-4080-b5b3-ff8a29bc8d92","Discharged",33.7,44,2008,"Prematurity with RDS",2021-04-01,2021-04-30
+"69","5a8ce73e-97fd-4a5d-bdaa-b97e10d155c8","Discharged",31,22,1431,"Prematurity with RDS",2021-04-19,2021-05-15
+"70","bfe00496-c8df-4a45-a10d-7993e2311927","Discharged",39.4,22,2755,"Prematurity with RDS",2021-04-29,2021-05-11
+"71","b9da36fc-cfae-4a8a-90a4-9264a4bfb9e8","Discharged",40.8,38,1703,"Prematurity with RDS",2021-04-29,2021-05-05
+"72","a43c82a1-d604-4568-9dfb-bc57e2e4f727","Discharged",30.9,29,2101,"Prematurity with RDS",2021-04-02,2021-05-28
+"73","18eb4907-ef70-416b-8f5b-94cc50788e0d","Discharged",32.7,36,3441,"Prematurity with RDS",2021-04-03,2021-05-18
+"74","98d9bb6e-8042-4b31-a778-8f6a08f7ff13","Discharged",31.3,40,3056,"Prematurity with RDS",2021-04-03,2021-05-31
+"75","9f2a11c0-305b-4d91-8065-c5bfcd6ab8fd","Discharged",41.7,38,928,"Prematurity with RDS",2021-04-17,2021-05-22
+"76","5aba3037-d7a1-46de-8456-9fd5d6336b86","Discharged",41,36,3659,"EONS",2021-04-07,2021-05-18
+"77","a474bf21-2c37-4db0-a241-110463ca51df","Discharged",34.5,40,684,"EONS",2021-04-30,2021-05-31
+"78","1fb9950f-36f8-4506-9590-16fbfdcb9256","Discharged",33.9,34,3489,"EONS",2021-04-19,2021-05-28
+"79","042f55ce-7c2b-4d9a-84c1-5a747b0858bd","Discharged",35,22,1196,"EONS",2021-04-06,2021-05-19
+"80","43ce1fd3-bc1b-4ccb-beb3-c34eae0b1f72","Discharged",34.7,40,645,"EONS",2021-04-28,2021-05-02
+"81","e209a0c7-37b9-46d8-bc9c-16f36a143a07","Discharged",39.5,41,3221,"EONS",2021-04-28,2021-05-01
+"82","5ff7d55d-d529-47cf-85e8-7cc498d0b861","Discharged",40.8,43,1702,"EONS",2021-04-03,2021-05-31
+"83","f992d07a-5556-4c34-8bf8-37fd286fd60d","Discharged",34.8,37,2059,"EONS",2021-04-21,2021-05-24
+"84","e75539bd-b659-4559-a56e-c989255a18d3","Discharged",41.2,26,591,"EONS",2021-04-12,2021-05-01
+"85","13155925-ad31-4779-b4fa-e80746c8de7c","Discharged",39,27,2878,"EONS",2021-04-18,2021-05-18
+"86","87c6a838-57ea-476a-bd50-f5d23eef8f5d","Discharged",35.2,29,3927,"LONS",2021-04-24,2021-05-06
+"87","a1df0fb9-f94e-45fb-b0c1-c1cda4446937","Discharged",33.4,24,3235,"LONS",2021-04-03,2021-05-16
+"88","5f19028a-130c-4884-9e09-5fed1719f9d3","Discharged",39.7,33,1152,"LONS",2021-04-06,2021-05-02
+"89","5f60c0eb-5820-45e5-b027-b89eec46b46d","Discharged",34.2,38,942,"LONS",2021-04-20,2021-05-23
+"90","2aea8a1b-8242-45bb-ae20-89401615fd72","Death",36.5,39,1310,"LONS",2021-04-16,2021-05-09
+"91","c31ed1ed-753d-41d0-8c0b-6eab9badb5b7","Death",35.1,23,1000,"Dehydration",2021-04-18,2021-05-23
+"92","d6847894-dbbb-435f-b289-6d1b2f603455","Death",37.4,23,888,"Dehydration",2021-04-14,2021-05-19
+"93","f4fc852d-7d84-4274-9cb2-01b1fd28e1c3","Death",33.5,27,1736,"Dehydration",2021-04-27,2021-05-05
+"94","d4ea4207-f175-4e2e-bc70-d850d7135f60","Death",32.6,26,1942,"Dehydration",2021-04-04,2021-05-26
+"95","ea50f8fe-3ffe-4f9a-8e7f-3185c1d93db9","Death",33.9,26,1586,"Gastroschisis",2021-04-06,2021-05-24
+"96","5686d26d-77b5-45af-a6aa-6293d1af8781","Death",37.6,39,776,"Gastroschisis",2021-04-02,2021-05-06
+"97","ddb197b9-6da3-4fd1-b0f5-e1b49b8f97d6","Death",32.3,28,3652,"Gastroschisis",2021-04-29,2021-05-01
+"98","e0a782d9-ed7c-4799-b9f0-c9334b13d6b9","Death",34.7,38,829,"Gastroschisis",2021-04-15,2021-05-08
+"99","3865f928-1c58-47f6-8147-a43a707e8b73","Death",32.9,38,3720,"Gastroschisis",2021-04-24,2021-05-10
+"100","cd7e1f07-cf66-42b1-8e92-2fbe74c6e3c5","Transferred to another hospital",31.7,34,957,"Gastroschisis",2021-04-24,2021-05-23
