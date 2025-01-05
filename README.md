@@ -47,7 +47,7 @@ Demo data visualisation
 Demo webeditor
 
 * The webeditor enales clinicians and hospital management to tailor the app experience without any need to edit the underlying code
-* You can view a demonstration of the webeditor on https://demo-webeditor.neotree.org. Here you can view the functionality for customising the different scripts in the app or adding additional scripts
+* You can view a demonstration of the webeditor on [https://demo-webeditor.neotree.org/login](https://demo-webeditor.neotree.org/login). Here you can view the functionality for customising the different scripts in the app or adding additional scripts
 * A instructional video is available [here](https://youtu.be/FLOFAuZXAjw)
 * Instructions on how to use the web editor can be found [here](https://github.com/neotree/neotree-editor/blob/master/editor-usage-instructions.pdf)
 
