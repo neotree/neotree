@@ -1,4 +1,4 @@
-# Neotree
+![image](https://github.com/user-attachments/assets/98189d33-ec55-46f8-bbb4-cf5a6b394609)# Neotree
 
 [![DOI](https://zenodo.org/badge/257850569.svg)](https://zenodo.org/badge/latestdoi/257850569)
 
@@ -33,7 +33,7 @@ An end-to-end demo of the Neotree is available. For login credentials please ema
 
 Demo app
 
-* Download the demo Android app [here](https://drive.google.com/file/d/1k9JnfzVJwbAwByyq1jU0k3i1uV-Gq01D/view?usp=sharing).
+* Download the demo Android app [here](https://drive.google.com/file/d/1BrW8LCKKbzXhXVWVappVAjDkupIXR2pK/view?usp=sharing).
 * You can view video instructions to download and setup the video [here](https://youtu.be/H280y_h_ueo), and instructions to use the app [here](https://youtu.be/68wHtgXewM0)
 * It includes four demonstration "scripts". You can enter in dummy records (e.g. admissions, discharges) and export the data via the jsonapi
 
