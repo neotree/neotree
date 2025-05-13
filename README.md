@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/257850569.svg)](https://zenodo.org/badge/latestdoi/257850569)
+![image](https://github.com/user-attachments/assets/54dfc678-c2e7-4cee-82d6-b52f3426cd56)[![DOI](https://zenodo.org/badge/257850569.svg)](https://zenodo.org/badge/latestdoi/257850569)
 
 The Neotree is an open source platform for improving neonatal care in low-resource settings. 
 
@@ -31,7 +31,7 @@ An end-to-end demo of the Neotree is available. For login credentials please ema
 
 Demo app
 
-* Download the demo Android app [here](https://drive.google.com/file/d/1BrW8LCKKbzXhXVWVappVAjDkupIXR2pK/view?usp=sharing).
+* Download the demo Android app [here](https://drive.google.com/file/d/1OvdtLITkmhXFkQNLwF9uAz3L8YRWgHWL/view?usp=sharing).
 * You can view video instructions to download and setup the video [here](https://youtu.be/H280y_h_ueo), and instructions to use the app [here](https://youtu.be/68wHtgXewM0)
 * It includes four demonstration "scripts". You can enter in dummy records (e.g. admissions, discharges) and export the data via the jsonapi
 
