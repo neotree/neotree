@@ -1,0 +1,28 @@
+{
+  "name": "@workspace/editor-db",
+  "type": "module",
+  "scripts": {
+    "db:studio": "npx drizzle-kit studio",
+    "db:push": "npx drizzle-kit push"
+  },
+  "exports": {
+    "./db": "./src/db.ts",
+    "./schema": "./src/schema.ts",
+    "./utils": "./src/utils.ts",
+    "./tables/*": "./src/tables/*.ts",
+    "./queries/*": "./src/queries/*.ts"
+  },
+  "dependencies": {
+    "@workspace/env": "workspace:*",
+    "drizzle-orm": "^0.44.4",
+    "postgres": "^3.4.7"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.9",
+    "@workspace/eslint-config": "workspace:*",
+    "@workspace/typescript-config": "workspace:*",
+    "dotenv": "^17.2.1",
+    "drizzle-kit": "^0.31.4",
+    "typescript": "^5.9.2"
+  }
+}

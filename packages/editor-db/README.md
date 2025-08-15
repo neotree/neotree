@@ -1,0 +1,1 @@
+# `@workspace/editor-db`

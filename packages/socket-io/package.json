@@ -1,0 +1,17 @@
+{
+    "name": "@workspace/socket-io",
+    "type": "module",
+    "exports": {
+        "./server/*": "./src/server/*.ts",
+        "./client/*": "./src/client/*.ts"
+    },
+    "dependencies": {
+        "socket.io": "^4.8.1",
+        "socket.io-client": "^4.8.1"
+    },
+    "devDependencies": {
+        "@types/node": "^20.19.9",
+        "@workspace/eslint-config": "workspace:*",
+        "@workspace/typescript-config": "workspace:*"
+    }
+}

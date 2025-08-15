@@ -1,0 +1,18 @@
+{
+    "name": "@workspace/env",
+    "type": "module",
+    "exports": {
+        ".": "./src/index.ts",
+        "./unsafe": "./src/unsafe.ts"
+    },
+    "dependencies": {
+        "dotenv": "^17.2.1",
+        "dotenv-safe": "^9.1.0"
+    },
+    "devDependencies": {
+        "@types/dotenv": "^8.2.3",
+        "@types/dotenv-safe": "^8.1.6",
+        "@workspace/eslint-config": "workspace:*",
+        "@workspace/typescript-config": "workspace:*"
+    }
+}
