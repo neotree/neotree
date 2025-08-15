@@ -1,0 +1,12 @@
+{
+    "extends": "./tsconfig.json",
+    "compilerOptions": {
+        "module": "commonjs",
+        "outDir": "build",
+        "lib": ["es2019"],
+        "target": "es2019",
+        "isolatedModules": false,
+        "noEmit": false
+    },
+    "include": ["server.custom.ts"]
+}
