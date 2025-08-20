@@ -1,7 +1,7 @@
 import { drizzle as postgresDrizzle } from 'drizzle-orm/postgres-js';
 import postgres from 'postgres';
 
-import * as schema from "@workspace/editor-db/schema";
+import * as schema from "@workspace/drizzle/editor/schema";
 
 declare global {
     var drizzle: ReturnType<typeof dbInit> | undefined;

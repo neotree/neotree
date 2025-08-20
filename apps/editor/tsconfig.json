@@ -10,8 +10,8 @@
       "@workspace/ui/*": [
         "../../packages/ui/src/*"
       ],
-      "@workspace/editor-db/*": [
-        "../../packages/editor-db/src/*"
+      "@workspace/drizzle/*": [
+        "../../packages/drizzle/src/*"
       ],
       "@workspace/socket.io/*": [
         "../../packages/socket-io/src/*"

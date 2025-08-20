@@ -1,16 +1,14 @@
 {
-  "name": "@workspace/editor-db",
+  "name": "@workspace/drizzle",
+  "version": "0.0.0",
   "type": "module",
+  "private": true,
   "scripts": {
     "db:studio": "npx drizzle-kit studio",
     "db:push": "npx drizzle-kit push"
   },
   "exports": {
-    "./db": "./src/db.ts",
-    "./schema": "./src/schema.ts",
-    "./utils": "./src/utils.ts",
-    "./tables/*": "./src/tables/*.ts",
-    "./queries/*": "./src/queries/*.ts"
+    "./editor/*": "./src/editor/*.ts"
   },
   "dependencies": {
     "@workspace/env": "workspace:*",

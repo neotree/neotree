@@ -8,8 +8,8 @@ import {
     uuid,
 } from "drizzle-orm/pg-core";
 
-import { roleNameEnum } from '@workspace/editor-db/utils';
-import { userRoles } from '@workspace/editor-db/tables/user-roles';
+import { roleNameEnum } from '@workspace/drizzle/editor/utils';
+import { userRoles } from '@workspace/drizzle/editor/_user-roles';
 
 // USERS
 export const users = pgTable(

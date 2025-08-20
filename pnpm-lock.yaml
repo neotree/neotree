@@ -26,6 +26,9 @@ importers:
 
   apps/editor:
     dependencies:
+      '@workspace/drizzle':
+        specifier: workspace:*
+        version: link:../../packages/drizzle
       '@workspace/env':
         specifier: workspace:*
         version: link:../../packages/env
@@ -129,9 +132,6 @@ importers:
       '@types/uuid':
         specifier: ^10.0.0
         version: 10.0.0
-      '@workspace/editor-db':
-        specifier: workspace:*
-        version: link:../../packages/editor-db
       '@workspace/eslint-config':
         specifier: workspace:^
         version: link:../../packages/eslint-config
@@ -194,7 +194,7 @@ importers:
         specifier: ^5.9.2
         version: 5.9.2
 
-  packages/editor-db:
+  packages/drizzle:
     dependencies:
       '@workspace/env':
         specifier: workspace:*

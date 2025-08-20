@@ -1,4 +1,4 @@
-import { customType, pgEnum, } from "drizzle-orm/pg-core";
+import { customType, pgEnum, PgTable } from "drizzle-orm/pg-core";
 
 export const bytea = customType<{ data: Buffer; notNull: false; default: false }>({
     dataType() {

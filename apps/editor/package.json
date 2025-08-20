@@ -18,6 +18,7 @@
         "start:production": "NODE_ENV=production pm2 start pm2.production.json"
     },
     "dependencies": {
+        "@workspace/drizzle": "workspace:*",
         "@workspace/env": "workspace:*",
         "@workspace/socket-io": "workspace:*",
         "@workspace/ui": "workspace:*",
@@ -54,7 +55,6 @@
         "@types/react": "^19.1.9",
         "@types/react-dom": "^19.1.7",
         "@types/uuid": "^10.0.0",
-        "@workspace/editor-db": "workspace:*",
         "@workspace/eslint-config": "workspace:^",
         "@workspace/typescript-config": "workspace:*",
         "drizzle-kit": "^0.31.4",

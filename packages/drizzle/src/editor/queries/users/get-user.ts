@@ -1,6 +1,6 @@
-import db from '@workspace/editor-db/db';
-import { users } from '@workspace/editor-db/schema';
-import { and, eq, sql } from 'drizzle-orm';
+import { and, eq, sql, getTableColumns, } from 'drizzle-orm';
+import db from '@workspace/drizzle/editor/db';
+import { users } from '@workspace/drizzle/editor/schema';
 
 export type GetUserParams = {
     filter: ['email' | 'userId', string];
@@ -28,9 +28,15 @@ export async function getUser({ filter, throwErrors, }: GetUserParams): Promise<
 
         if (!where.length) throw new Error('Invalid `filter` param.');
 
-        const user = await db.query.users.findFirst({
-            where: and(...where),
-        });
+        const {
+            password,
+            ...columns
+        } = getTableColumns(users);
+
+        const [user] = await db
+            .select(columns)
+            .from(users)
+            .where(and(...where));
 
         return {
             data: user || null,

@@ -3,7 +3,7 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "@workspace/editor-db/*": ["./src/*"]
+      "@workspace/drizzle/*": ["./src/*"]
     }
   },
   "include": ["."],
