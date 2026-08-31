@@ -66,6 +66,7 @@ From the root of your clone:
 
 ```bash
 grep -rlF "$(printf '%500s' '')" . \
+  --exclude-dir=node_modules --exclude-dir=.git \
   --include='*.js' --include='*.mjs' --include='*.ts' --include='*.jsx' --include='*.tsx'
 ```
 
@@ -80,10 +81,23 @@ test set to the exact observed length would have no tolerance at all, and would
 miss a variant even slightly shorter. A run of 500 spaces is still far longer
 than any legitimate formatting.
 
-**Keep the `--include` filters.** The signature is structural, so binary files —
-images especially — can contain a matching run of bytes by pure chance. Limiting
-the search to source files is what prevents false alarms, and it does not affect
-the test's ability to find the real thing.
+**Keep the `--include` filters and the `--exclude-dir`.** The signature is
+structural, so other files can contain a matching run of characters by pure
+chance. Two categories do so in practice:
+
+- **Binary files, images especially.** The `--include` filters exclude them.
+- **Installed dependencies.** At least one very common package —
+  `eslint-plugin-import` — ships a source file containing a 912-character run of
+  spaces in its published form. Any project with it installed would report a hit
+  inside `node_modules`. The `--exclude-dir=node_modules` prevents that.
+
+**If you have already run a version of this check without those exclusions and
+found a hit inside `node_modules`, it is almost certainly upstream content
+rather than an infection.** Confirm by installing that package fresh in an empty
+directory and searching the same file: if the clean copy from the registry
+matches too, the hit is legitimate. The malicious insertion was placed in
+*project* files — build configuration and entry points — not inside installed
+dependencies.
 
 **Do not rewrite this as a regular expression such as `' {2000,}'`.** BSD `grep`,
 which is what macOS ships, rejects interval repetition above 255 — on some shells
